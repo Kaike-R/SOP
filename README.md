@@ -12,3 +12,9 @@
  ### Sistema
  
  Usaremos um sistema com 2 nucleos de processador 64 bits e 4GB de memoria ram com ubuntu 20.04
+ 
+ ### Tema
+ 
+ Escolhemos o tema - Inteligência de negócio aplicada à cadeia de valor empresarial para darmos seguimento
+ 
+ 
