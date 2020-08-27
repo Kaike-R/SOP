@@ -15,6 +15,6 @@
  
  ### Tema
  
- Escolhemos o tema - Inteligência de negócio aplicada à cadeia de valor empresarial para darmos seguimento
+ Escolhemos o tema - Inteligência de negócio aplicada à cadeia de valor empresarial para darmos seguimento e usaremos shell script com python
  
  
